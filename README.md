@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Decentralized Funding: Building and Deploying a Blockchain Crowdfunding DApp
 
